@@ -1,0 +1,82 @@
+[
+    {
+      "name": "iPhone 13 Pro - Gece Yarısı",
+      "description": "A15 Bionic çip, Pro kamera sistemi, 6.1 inç Super Retina XDR ekran",
+      "price": 14999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000",
+      "quantity": 100,
+      "categoryId": 1
+    },
+    {
+      "name": "iPhone 13 - Kırmızı",
+      "description": "A15 Bionic çip, çift kamera sistemi, 6.1 inç Super Retina XDR ekran",
+      "price": 12999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629907846000",
+      "quantity": 120,
+      "categoryId": 1
+    },
+    {
+      "name": "iPhone SE - Beyaz",
+      "description": "A15 Bionic çip, kompakt tasarım, 4.7 inç Retina HD ekran",
+      "price": 7999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-se-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1586574259457",
+      "quantity": 150,
+      "categoryId": 1
+    },
+    {
+      "name": "MacBook Air M2 - Uzay Grisi",
+      "description": "M2 çip, 13.6 inç Liquid Retina ekran, 18 saate kadar pil ömrü",
+      "price": 18999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1633027804000",
+      "quantity": 80,
+      "categoryId": 1
+    },
+    {
+      "name": "MacBook Pro 14 - Gümüş",
+      "description": "M1 Pro çip, 14 inç Liquid Retina XDR ekran, 17 saate kadar pil ömrü",
+      "price": 24999,
+      "imageURL": "https://cdn.akakce.com/z/apple/macbook-pro-mkgp3tu-a-apple-m1-pro-16-gb-512-gb-ssd-14-2-notebook.jpg",
+      "quantity": 60,
+      "categoryId": 1
+    },
+    {
+      "name": "iMac 24 - Mavi",
+      "description": "M1 çip, 24 inç 4.5K Retina ekran, 1080p FaceTime HD kamera",
+      "price": 19999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1617492405000",
+      "quantity": 50,
+      "categoryId": 1
+    },
+    {
+      "name": "iPad Pro 12.9 - Uzay Grisi",
+      "description": "M1 çip, 12.9 inç Liquid Retina XDR ekran, 5G desteği",
+      "price": 15999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104?wid=940&hei=1112&fmt=png-alpha&.v=1617126613000",
+      "quantity": 70,
+      "categoryId": 1
+    },
+    {
+      "name": "iPad Air - Gök Mavisi",
+      "description": "M1 çip, 10.9 inç Liquid Retina ekran, Touch ID",
+      "price": 9999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-select-wifi-blue-202203?wid=940&hei=1112&fmt=png-alpha&.v=1645065732688",
+      "quantity": 90,
+      "categoryId": 1
+    },
+    {
+      "name": "Mac mini - Gümüş",
+      "description": "M1 çip, kompakt tasarım, 8-çekirdekli CPU ve GPU",
+      "price": 8999,
+      "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-hero-202011?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603403462000",
+      "quantity": 100,
+      "categoryId": 1
+    },
+    {
+      "name": "Apple Watch Series 7 - Yeşil",
+      "description": "Her zamankinden daha büyük ekran, hızlı şarj, IP6X toz direnci",
+      "price": 5999,
+      "imageURL": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4MaUGQrRJ3OLwKFD33Eum22AcWEjkIh5GY1veP9yusJrFfA2AGThcN42GB_6u9eDFgVD0D9zHIPBlmd1-PlMvAjz3SLJrIpWakFouRE7hbgemvQL3d5RS&usqp=CAE",
+      "quantity": 110,
+      "categoryId": 1
+    }
+  ]

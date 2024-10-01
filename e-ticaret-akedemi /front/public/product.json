@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Kış Eldiveni",
+    "price": 200,
+    "stock": 50,
+    "image": "https://example.com/images/gloves.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Kış Şapkası",
+    "price": 150,
+    "stock": 30,
+    "image": "https://example.com/images/hat.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Haki Pantolon",
+    "price": 300,
+    "stock": 20,
+    "image": "https://example.com/images/pants.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Çiçekli Elbise",
+    "price": 250,
+    "stock": 15,
+    "image": "https://example.com/images/dress.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Spor Ayakkabı",
+    "price": 400,
+    "stock": 25,
+    "image": "https://example.com/images/shoes.jpg"
+  }
+]
